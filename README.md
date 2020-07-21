@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jessica, a Delivery Manager who loves technology.
+I'm Jessica, a Delivery Manager at [Made Tech](https://www.madetech.com) who loves technology.
 <!--
 **jessicatech/jessicatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
