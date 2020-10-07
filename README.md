@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jessica, a Delivery Manager at [Made Tech](https://www.madetech.com) who loves technology.
+I'm Jessica, a Senior Delivery Manager at [Made Tech](https://www.madetech.com) who loves technology.
 
-I write blog posts [here](https://medium.com/@jessica.nichols_20772/time-management-during-a-global-pandemic-8f9b47788388). 
+I write blog posts, such as the one [here](https://medium.com/@jessica.nichols_20772/time-management-during-a-global-pandemic-8f9b47788388) and speak at digital festivals too, [here](https://youtu.be/aTzwsmScC64) is a talk where I talked about delivering a user-centred NHS virtual visit service during COVID-19, including a live demo!  
 <!--
 **jessicatech/jessicatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
